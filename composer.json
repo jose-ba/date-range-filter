@@ -1,0 +1,17 @@
+{
+    "name": "jose1987ba/date-range-filter",
+    "description": "Filtro para filtrar por rango de fechas",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Jose1987ba\\DateRangeFilter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose",
+            "email": "jose1987ba@gmail.com"
+        }
+    ],
+    "require": {}
+}
